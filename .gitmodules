@@ -1,0 +1,3 @@
+[submodule "Projects/AIPND"]
+	path = Projects/AIPND
+	url = https://github.com/Emad2018/AIPND.git
