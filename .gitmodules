@@ -4,3 +4,6 @@
 [submodule "Projects/deep-learning-v2-pytorch.git"]
 	path = Projects/deep-learning-v2-pytorch.git
 	url = https://github.com/Emad2018/deep-learning-v2-pytorch.git
+[submodule "Projects/aipnd-project"]
+	path = Projects/aipnd-project
+	url = https://github.com/Emad2018/aipnd-project.git
