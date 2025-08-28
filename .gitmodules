@@ -7,3 +7,6 @@
 [submodule "Projects/aipnd-project"]
 	path = Projects/aipnd-project
 	url = https://github.com/Emad2018/aipnd-project.git
+[submodule "Projects/sagemaker-deployment"]
+	path = Projects/sagemaker-deployment
+	url = https://github.com/Emad2018/sagemaker-deployment.git
