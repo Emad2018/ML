@@ -10,3 +10,6 @@
 [submodule "sagemaker-deployment"]
 	path = Projects/MLND/sagemaker-deployment
 	url = https://github.com/Emad2018/sagemaker-deployment.git
+[submodule "Projects/MLND/ML_SageMaker_Studies"]
+	path = Projects/MLND/ML_SageMaker_Studies
+	url = https://github.com/Emad2018/ML_SageMaker_Studies.git
