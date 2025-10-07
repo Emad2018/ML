@@ -1,12 +1,12 @@
-[submodule "Projects/AIPND"]
-	path = Projects/AIPND
+[submodule "AIPND"]
+	path = Projects/AIPND/AIPND
 	url = https://github.com/Emad2018/AIPND.git
-[submodule "Projects/deep-learning-v2-pytorch.git"]
-	path = Projects/deep-learning-v2-pytorch.git
+[submodule "deep-learning-v2-pytorch.git"]
+	path = Projects/AIPND/deep-learning-v2-pytorch.git
 	url = https://github.com/Emad2018/deep-learning-v2-pytorch.git
-[submodule "Projects/aipnd-project"]
-	path = Projects/aipnd-project
+[submodule "aipnd-project"]
+	path = Projects/AIPND/aipnd-project
 	url = https://github.com/Emad2018/aipnd-project.git
-[submodule "Projects/sagemaker-deployment"]
-	path = Projects/sagemaker-deployment
+[submodule "sagemaker-deployment"]
+	path = Projects/MLND/sagemaker-deployment
 	url = https://github.com/Emad2018/sagemaker-deployment.git
